@@ -18,7 +18,7 @@ public abstract class Employee {
 
 
     /**
-     *  
+     *
      * @param day
      * @return
      */
